@@ -121,16 +121,16 @@ const BlogPostHeader = ({ post }: BlogPostHeaderProps) => {
             
             {post.author && (
               <div className="flex items-center gap-2">
-                {post.author.avatar && (
+                {typeof post.author === 'object' && post.author.avatar && (
                   <Image
                     src={post.author.avatar}
-                    alt={post.author.name}
+                    alt={typeof post.author === 'object' ? post.author.name || 'Author' : post.author}
                     width={24}
                     height={24}
                     className="rounded-full"
                   />
                 )}
-                <span>By {post.author.name}</span>
+                <span>By {typeof post.author === 'object' ? post.author.name : post.author}</span>
               </div>
             )}
           </div>
