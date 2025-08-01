@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "title": "ICE SUPER Blog",
+    "subtitle": "Casino Tech, Affiliate Growth & the Future of iGaming",
+    "description": "Stay ahead of the curve with expert insights, cutting-edge technology trends, and proven strategies that drive success in the dynamic world of online gaming.",
+    "backgroundImage": "",
+    "ctaText": "Explore Latest Insights",
+    "ctaLink": "www.icesuper.com"
+  },
+  "navbar": {
+    "logo": "ICE SUPER",
+    "logoImage": "https://icesuper.com/wp-content/uploads/2023/09/White-yellow.png",
+    "menuItems": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "Categories",
+        "href": "/categories"
+      },
+      {
+        "name": "About",
+        "href": "/about"
+      },
+      {
+        "name": "Contact",
+        "href": "wa.link/icesuper"
+      }
+    ]
+  },
+  "footer": {
+    "companyName": "ICE SUPER",
+    "description": "Leading the future of iGaming with innovative technology and strategic insights.",
+    "copyright": "© 2024 ICE SUPER. All rights reserved.",
+    "socialLinks": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/icesuper",
+        "icon": "twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/icesuper",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/icesuper",
+        "icon": "github"
+      }
+    ],
+    "quickLinks": [
+      {
+        "name": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "name": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "name": "Cookie Policy",
+        "href": "/cookies"
+      }
+    ]
+  },
+  "branding": {
+    "primaryColor": "#FFC300",
+    "secondaryColor": "#FFD700",
+    "backgroundColor": "#0f0f0f",
+    "textColor": "#ffffff",
+    "accentColor": "#FFC300",
+    "customCSS": ""
+  },
+  "typography": {
+    "headingFont": "Poppins",
+    "bodyFont": "Inter",
+    "fontSize": {
+      "small": "14px",
+      "medium": "16px",
+      "large": "18px",
+      "xlarge": "24px"
+    },
+    "primaryFont": "Poppins",
+    "lineHeight": "1.6",
+    "baseFontSize": "16px"
+  },
+  "ctaBanner": {
+    "enabled": true,
+    "title": "Ready to Transform Your iGaming Strategy?",
+    "description": "Join thousands of industry professionals who trust ICE SUPER for the latest insights and innovations.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "www.icesuper.com",
+    "backgroundColor": "#FFC300",
+    "textColor": "#0f0f0f"
+  },
+  "seo": {
+    "metaTitle": "ICE SUPER Blog - Casino Tech & iGaming Future",
+    "metaDescription": "Stay ahead with expert insights on casino technology, affiliate growth strategies, and the future of iGaming industry.",
+    "keywords": "iGaming, casino technology, affiliate marketing, online gaming, casino trends",
+    "ogImage": "",
+    "favicon": "/favicon.ico"
+  },
+  "blog": {
+    "postsPerPage": 9,
+    "showExcerpts": true,
+    "enableComments": true,
+    "enableSocialSharing": true,
+    "categories": [
+      "Technology",
+      "Strategy",
+      "Industry News",
+      "Affiliate Marketing",
+      "Casino Games",
+      "Regulation"
+    ],
+    "showAuthor": true,
+    "showReadTime": true
+  }
+}
